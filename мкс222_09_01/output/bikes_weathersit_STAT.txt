@@ -1,0 +1,2 @@
+Критерий Крускала-Уоллиса для переменных 'weathersit' и 'cnt'
+KruskalResult(statistic=46.93373962228377, pvalue=7.3427675922565e-12)
