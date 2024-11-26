@@ -1,3 +1,5 @@
-Регрессионный анализ в Python
+Регрессионный анализ в Python (множественная линейная регрессия)
+
 Библиотеки pandas, numpy, scipy, matplotlib, seaborn
-Датасет Велосипеды и погода
+
+Датасет Bike Sharing (https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
